@@ -2,7 +2,7 @@
 //10/25/22
 //Odd or Even End Point
 //Have endpoints configured to complete Mini Challenge # 6
-//Peer review:
+//Peer review: BY N. HARRISON WILKINS : I LIKE THE DATA VALIDATION, CODE IS EASY TO READ AND VERY DIGESTABLE.   OVERALL VERY NICE, VERY NEAT WORK!!! GREAT JOB!
 //
 
 using Microsoft.AspNetCore.Mvc;
